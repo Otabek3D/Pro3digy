@@ -757,26 +757,26 @@ section,
 }
 
 .hero .hero-visual .profile-container .floating-elements .floating-icon.icon-1 {
-  top: -10px;
+  top: -20px;
   right: 50px;
   animation-delay: 0s;
 }
 
 .hero .hero-visual .profile-container .floating-elements .floating-icon.icon-2 {
-  bottom: 80px;
-  right: -20px;
+  bottom: 70px;
+  right: -60px;
   animation-delay: 1s;
 }
 
 .hero .hero-visual .profile-container .floating-elements .floating-icon.icon-3 {
-  bottom: -10px;
+  bottom: -40px;
   left: 50px;
   animation-delay: 2s;
 }
 
 .hero .hero-visual .profile-container .floating-elements .floating-icon.icon-4 {
   top: 100px;
-  left: -20px;
+  left: -40px;
   animation-delay: 3s;
 }
 
